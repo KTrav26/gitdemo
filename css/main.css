@@ -4,3 +4,19 @@ body {
   text-align: center;
   margin: 30px;
 }
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li (
+display: inline-block;
+margin: 10px 20px;
+}
+
+nav a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: cornflowerblue;
+}
